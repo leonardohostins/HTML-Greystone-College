@@ -15,10 +15,6 @@ h1 {
     font-size: 14px;
 }
 
-span.name {
-    color: blueviolet
-}
-
 #form1 {
     text-align: center;
     margin-left: auto;
@@ -99,4 +95,17 @@ body {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+a {
+    color:darkblue;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+a:active {
+    color: blue;
 }
